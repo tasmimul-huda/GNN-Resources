@@ -7,11 +7,13 @@
 - [https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83](https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83)
 - [https://tkipf.github.io/graph-convolutional-networks/](https://tkipf.github.io/graph-convolutional-networks/)
 - [https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
+- [Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms](https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
 
 ### [Youtube]
 - [Graph Neural Networks](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
 - [Graph Neural Networks: A gentle introduction](https://www.youtube.com/watch?v=xFMhLp52qKI&t=1550s)
 - [Intro to graph neural networks (ML Tech Talks)](https://www.youtube.com/watch?v=8owQBFAHw7E&t=1741s)
+- [Graph SAGE - Inductive Representation Learning on Large Graphs | GNN Paper Explained](https://www.youtube.com/watch?v=vinQCnizqDA&t=1s)
 - [ GraphSAGE: Inductive Representation Learning on Large Graphs (Graph ML Research Paper Walkthrough)](https://www.youtube.com/watch?v=3AzphNf5ja8&t=2s)
 - [GAT: Graph Attention Networks (Graph ML Research Paper Walkthrough)](https://www.youtube.com/watch?v=v2P1yZhP8cs)
 
