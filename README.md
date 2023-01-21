@@ -5,6 +5,7 @@
 - [A Comprehensive Introduction to Graph Neural Networks (GNNs)](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
 - [Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms](https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
 - [GraphSAGE: Scaling up Graph Neural Networks](https://towardsdatascience.com/introduction-to-graphsage-in-python-a9e7f9ecf9d7)
+- [https://geometricdeeplearning.com/](https://geometricdeeplearning.com/)
 ### [GitHub]
 - [GRAPH CONVOLUTIONAL NETWORKS](https://tkipf.github.io/graph-convolutional-networks/)
 ### [Kaggle]
