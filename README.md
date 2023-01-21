@@ -1,4 +1,5 @@
-# GNN-Resources
+# Awesome GNN-Resources
+### [Papers]
 
 ### [Blogs]
 - [Graph Neural Networks in Python](https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83)
