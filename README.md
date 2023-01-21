@@ -1,15 +1,16 @@
 # GNN-Resources
 
 ### [Blogs]
-- [https://www.kaggle.com/code/fidels/introduction-to-tf-gnn](https://www.kaggle.com/code/fidels/introduction-to-tf-gnn)
-- [https://www.kaggle.com/code/validmodel/graph-neural-network-starter-for-beginners](https://www.kaggle.com/code/validmodel/graph-neural-network-starter-for-beginners)
-- [https://www.kaggle.com/code/awadelrahman/tutorial-graph-neural-networks-on-social-networks](https://www.kaggle.com/code/awadelrahman/tutorial-graph-neural-networks-on-social-networks)
-- [https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83](https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83)
-- [https://tkipf.github.io/graph-convolutional-networks/](https://tkipf.github.io/graph-convolutional-networks/)
-- [https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
+- [Graph Neural Networks in Python](https://towardsdatascience.com/graph-neural-networks-in-python-c310c7c18c83)
+- [A Comprehensive Introduction to Graph Neural Networks (GNNs)](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
 - [Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms](https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
 - [GraphSAGE: Scaling up Graph Neural Networks](https://towardsdatascience.com/introduction-to-graphsage-in-python-a9e7f9ecf9d7)
-
+### [GitHub]
+- [GRAPH CONVOLUTIONAL NETWORKS](https://tkipf.github.io/graph-convolutional-networks/)
+### [Kaggle]
+- [Introduction to TF-GNN](https://www.kaggle.com/code/fidels/introduction-to-tf-gnn)
+- [Graph neural network starter for beginners](https://www.kaggle.com/code/validmodel/graph-neural-network-starter-for-beginners)
+- [Tutorial Graph Neural Networks on Social Networks](https://www.kaggle.com/code/awadelrahman/tutorial-graph-neural-networks-on-social-networks)
 ### [Youtube]
 - [Graph Neural Networks](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
 - [Graph Neural Networks: A gentle introduction](https://www.youtube.com/watch?v=xFMhLp52qKI&t=1550s)
