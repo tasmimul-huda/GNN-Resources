@@ -20,7 +20,7 @@
 - [Graph SAGE - Inductive Representation Learning on Large Graphs | GNN Paper Explained](https://www.youtube.com/watch?v=vinQCnizqDA&t=1s)
 - [ GraphSAGE: Inductive Representation Learning on Large Graphs (Graph ML Research Paper Walkthrough)](https://www.youtube.com/watch?v=3AzphNf5ja8&t=2s)
 - [GAT: Graph Attention Networks (Graph ML Research Paper Walkthrough)](https://www.youtube.com/watch?v=v2P1yZhP8cs)
-- [Graph Node Embedding Algorithms (Stanford - Fall 2019)](https://www.youtube.com/watch?v=7JELX6DiUxQ)
+- [Stanford CS224W: Machine Learning with Graphs]([https://www.youtube.com/watch?v=7JELX6DiUxQ](https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn))
 
 ### [Books]
 - [Graph Machine Learning: Take Graph Data to the Next Level by Applying Machine Learning Techniques and Algorithms Book by Aldo Marzullo, Claudio Stamile, and Enrico Deusebio](https://github.com/PacktPublishing/Graph-Machine-Learning)
