@@ -9,6 +9,7 @@
 - [https://geometricdeeplearning.com/](https://geometricdeeplearning.com/)
 ### [GitHub]
 - [GRAPH CONVOLUTIONAL NETWORKS](https://tkipf.github.io/graph-convolutional-networks/)
+- [https://github.com/zhilonglu/Graph-Neural-Network](https://github.com/zhilonglu/Graph-Neural-Network)
 ### [Kaggle]
 - [Introduction to TF-GNN](https://www.kaggle.com/code/fidels/introduction-to-tf-gnn)
 - [Graph neural network starter for beginners](https://www.kaggle.com/code/validmodel/graph-neural-network-starter-for-beginners)
