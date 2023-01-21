@@ -8,6 +8,7 @@
 - [https://tkipf.github.io/graph-convolutional-networks/](https://tkipf.github.io/graph-convolutional-networks/)
 - [https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial](https://www.datacamp.com/tutorial/comprehensive-introduction-graph-neural-networks-gnns-tutorial)
 - [Graph Machine Learning with Python Part 1: Basics, Metrics, and Algorithms](https://towardsdatascience.com/graph-machine-learning-with-python-pt-1-basics-metrics-and-algorithms-cc40972de113)
+- [GraphSAGE: Scaling up Graph Neural Networks](https://towardsdatascience.com/introduction-to-graphsage-in-python-a9e7f9ecf9d7)
 
 ### [Youtube]
 - [Graph Neural Networks](https://youtube.com/playlist?list=PLV8yxwGOxvvoNkzPfCx2i8an--Tkt7O8Z)
